@@ -1,5 +1,9 @@
 # react-project-personal-portfolio
 
+<picture>
+ <img alt="Demo" src="demo.gif">
+</picture>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
